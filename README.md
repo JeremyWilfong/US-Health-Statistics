@@ -3,7 +3,7 @@
 - Government wants to know the correlation between Health, Heart Disease, Poverty Rate, and Food Access(Desert).
 
 **SOLUTION:** 
-- Used SQL to create a table of different metrics for each state; analyzed correlations of the table in Excel and visualized all the data and correlations in multiple Tableau Dashboards.
+- Used SQL to create a table of different metrics for each state; analyzed correlations of the table in Excel and visualized all the data and correlations in multiple Tableau Dashboards. **Here are the [Tableau Dashboards](https://public.tableau.com/app/profile/jeremy.wilfong/viz/USHealthStatistics/HeartDiseaseRate)**
 - **There was a higher correlation between No/Minimum Physical Activity and Obesity than there was for No Veggies and Obesity. Lack of Physical Activity is a better indicator of someone becoming obese.**
 - **There was a higher correlation between Urban Poverty and Obesity than there was for Rural Poverty and Obesity. There was also a higher correlation between Urban Poverty and Lack of Physical Activity than there was for Rural Poverty and Lack of Physical Activity. Based on these correlations, we can infer that individuals in Urban areas are more likely to become obese because of their lack of physical activity.**
 - **There was very little correlation between Food Deserts and Obesity/Lack of Eating Veggies.**
