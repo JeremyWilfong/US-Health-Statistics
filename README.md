@@ -11,7 +11,7 @@
 
 **SKILLS USED:** 
 - Excel for analyzing Correlations. 
-- MS SQL For Joining Heart Disease, Health Statistics, and Poverty/Food Desert Tables.
+- MS SQL to Join Heart Disease, Health Statistics, and Poverty/Food Desert Tables for analysis.
 - Tableau for Visualizing the Data and explaining the most notable Correlations.
 
 **QUESTIONS ASKED:** 
